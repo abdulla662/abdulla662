@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm Abdulla Hamdy</h1>
-<h3 align="center">A passionate backend .Net developer from Egypt</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulla662&label=Profile%20views&color=0e75b6&style=flat" alt="abdulla662" /> </p>
+# Hi, I'm Abdulla Hamdy 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulla662" alt="abdulla662" /></a> </p>
+### Backend Developer · .NET · Clean Architecture · Docker
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdulla662](https://github.com/abdulla662)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulla662.github.io-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://abdulla662.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulla-hamdy)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahamdy825@yahoo.com)
 
-- 📫 How to reach me **https://wa.me/201157068224**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdulla-hamdy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdullahamdy112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/worldtroidgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+I build **production-ready backend systems** — multi-tenant SaaS platforms, real-time APIs, payment integrations, and containerised deployments. Based in Egypt, open to remote.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulla662&show_icons=true&locale=en&layout=compact" alt="abdulla662" /></p>
+### 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulla662&show_icons=true&locale=en" alt="abdulla662" /></p>
+```
+Backend     │ .NET 8 · ASP.NET Core · Entity Framework · SignalR · Hangfire · RabbitMQ
+Frontend    │ React 19 · Vite · Tailwind CSS v4
+Database    │ MySQL · SQL Server
+DevOps      │ Docker · Docker Compose · GitHub Actions · Watchtower
+Auth        │ JWT · Refresh Token Rotation · ASP.NET Identity
+Payments    │ Paymob
+AI / OCR    │ Mistral AI
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulla662&" alt="abdulla662" /></p>
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**FollowUp CRM**](https://github.com/abdulla662/SmartTracker) | Multi-tenant SaaS CRM for sales teams — real-time notifications, AI OCR, payment subscriptions | .NET 8, React, SignalR, Docker |
+| [**E-Ticket System**](https://github.com/abdulla662/E-Ticket-System) | Cinema booking system — seat selection, payments, refunds | ASP.NET Core MVC |
+| [**E-Commerce API**](https://github.com/abdulla662/E-Commerce-Api) | RESTful e-commerce backend with JWT auth and Swagger | ASP.NET Core |
+| [**Log Analyzer**](https://github.com/abdulla662/LogAnalyzer) | Server log analysis tool — top IP detection, Dockerised | C#, Docker |
+
+---
+
+<div align="center">
+
+**[View full portfolio →](https://abdulla662.github.io)**
+
+</div>
